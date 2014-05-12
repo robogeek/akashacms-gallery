@@ -1,4 +1,4 @@
 akashacms-gallery
 =================
 
-Gallery functions for AkashaCMS
+Gallery functions for [AkashaCMS](http://akashacms.com)
